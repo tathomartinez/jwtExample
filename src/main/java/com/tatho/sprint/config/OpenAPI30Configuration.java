@@ -1,4 +1,4 @@
-package com.tatho.sprint.login.config;
+package com.tatho.sprint.config;
 
 import io.swagger.v3.oas.models.Components;
 import io.swagger.v3.oas.models.OpenAPI;

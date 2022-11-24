@@ -1,9 +1,9 @@
-package com.tatho.sprint.login;
+package com.tatho.sprint;
 
-import com.tatho.sprint.login.auth.controller.AuthController;
-import com.tatho.sprint.login.config.SecurityConfig;
-import com.tatho.sprint.login.controller.LoginController;
-import com.tatho.sprint.login.token.service.TokenService;
+import com.tatho.sprint.auth.controller.AuthController;
+import com.tatho.sprint.config.SecurityConfig;
+import com.tatho.sprint.controller.LoginController;
+import com.tatho.sprint.auth.controller.service.TokenService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;

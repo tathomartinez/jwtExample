@@ -1,4 +1,4 @@
-package com.tatho.sprint.login.controller;
+package com.tatho.sprint.controller;
 
 import static org.junit.jupiter.api.Assertions.*;
 

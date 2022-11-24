@@ -1,4 +1,4 @@
-package com.tatho.sprint.login.config;
+package com.tatho.sprint.config;
 
 
 import org.junit.jupiter.api.Assertions;

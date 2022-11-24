@@ -1,6 +1,6 @@
-package com.tatho.sprint.login;
+package com.tatho.sprint;
 
-import com.tatho.sprint.login.config.RsaKeyProperties;
+import com.tatho.sprint.config.RsaKeyProperties;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

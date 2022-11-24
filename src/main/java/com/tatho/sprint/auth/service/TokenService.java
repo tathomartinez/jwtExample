@@ -1,4 +1,4 @@
-package com.tatho.sprint.login.token.service;
+package com.tatho.sprint.auth.service;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;
